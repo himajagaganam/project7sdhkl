@@ -783,11 +783,11 @@ body[data-theme="dark"] .feedback-item {
 
   .editor-panel,
   .preview-stage {
-    padding: 20px;
+    padding: 30px;
   }
 
   .resume-preview {
-    padding: 23px 18px;
+    padding: 23px 19px;
 
   }
 }
